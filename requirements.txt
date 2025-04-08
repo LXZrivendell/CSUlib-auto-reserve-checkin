@@ -1,6 +1,6 @@
-pandas==1.1.5
-requests==2.25.1
-configparser==5.2.0
-pycryptodomex==3.14.1
-beautifulsoup4==4.11.1
+pandas==2.2.3
+requests==2.32.3
+configparser==7.0.0
+pycryptodomex==3.20.0
+beautifulsoup4==4.12.3
 
