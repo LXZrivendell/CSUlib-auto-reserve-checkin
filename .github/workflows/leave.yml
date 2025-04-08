@@ -41,8 +41,8 @@ jobs:
         python3 helper.py --action 'leave' --userid $user --password $pwd
     - name: Commit
       run: |
-        git config --global user.email 1529835657@qq.com
-        git config --global user.name 1529835657
+        git config --global user.email ntlxz1001@163.com
+        git config --global user.name LXZrivendell
         git add .
         git commit -m "Update library.log" -a
     - name: Push changes
