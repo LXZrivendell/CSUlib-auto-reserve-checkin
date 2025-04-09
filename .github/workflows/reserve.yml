@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '1,15 22 * * *'
+    - cron: '1,15 22 * * *' #北京时间6:01和6:15
 
 permissions:
   actions: write
